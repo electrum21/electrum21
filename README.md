@@ -33,3 +33,9 @@ I’m a Computer Science undergraduate (NTU) with a strong cybersecurity and sof
 ---
 
 > Thanks for visiting! Explore my repositories to see ongoing experiments in cybersecurity, software engineering, and practical AI-enabled systems.
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Skills Animation">
+</div>
