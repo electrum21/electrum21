@@ -13,16 +13,6 @@ I’m a Computer Science undergraduate (NTU) with a strong cybersecurity and sof
 - **Algorithms and optimization systems** (allocation engines, DSA-focused projects)
 - **Cloud/infrastructure practice** (Terraform + serverless workflows)
 
-## 📊 Live GitHub Snapshot
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=electrum21&show_icons=true&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=electrum21&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=electrum21&hide_border=true" alt="activity graph"/>
-</p>
-
 ## 🧩 Featured Work Across My Repositories
 | Project | Focus Area | Stack / Keywords |
 |---|---|---|
