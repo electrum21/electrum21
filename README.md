@@ -33,50 +33,12 @@ I’m a Computer Science undergraduate (NTU) with a strong cybersecurity and sof
 | [track](https://github.com/electrum21/track) | Deadline tracking assistant | JavaScript, productivity workflows |
 | [terraform-practice](https://github.com/electrum21/terraform-practice) | Infrastructure-as-Code experiments | Terraform, AWS provisioning |
 
-<details>
-<summary><b>See more repositories</b></summary>
-
-- [Computational-Thinking-and-Programming](https://github.com/electrum21/Computational-Thinking-and-Programming)
-- [sc1007](https://github.com/electrum21/sc1007)
-- [Web-Development-Project](https://github.com/electrum21/Web-Development-Project)
-- [Data-Structures-and-Algorithms-Assignment](https://github.com/electrum21/Data-Structures-and-Algorithms-Assignment)
-- [tinyfish-cardsense](https://github.com/electrum21/tinyfish-cardsense)
-
-</details>
-
 ## 🎓 Education
 - **Nanyang Technological University (NTU), Singapore** *(Aug 2025 – May 2029)*  
   Bachelor of Computing in Computer Science (Honours)  
-  Honours (Highest Distinction), **CGPA: 4.61/5.00 (Current)**  
-  Relevant modules: Python, Java, C/C++, Data Structures and Algorithms
 
 - **Nanyang Polytechnic (NYP), Singapore** *(Apr 2020 – Mar 2023)*  
   Diploma in Cybersecurity & Digital Forensics (with Merit)  
-  Top in Cohort, **CGPA: 3.99/4.00**  
-  Relevant modules: Web Development, Network Technology, Data Analysis & Visualization, Software Engineering, DBMS, Applied Cryptography, Cybersecurity Attack & Defense
-
-## 💼 Experience
-**Centre for Strategic Infocomm Technologies (CSIT) — Cybersecurity Researcher Intern** *(Nov 2022 – Feb 2023)*
-- Built an in-house anti-malware solution with ML capabilities for enterprise-scale use.
-- Engineered a full-stack detection pipeline with web UI, XGBoost model (~80% accuracy), Splunk logging, and MongoDB persistence.
-- Designed and validated a scalable agent-server architecture.
-
-## 🏗️ Project Highlights
-- **ShiokBus (2026):** Real-time Singapore bus/trip planning app with sun-seat recommendation logic and daily data sync automation.
-- **Team Allocation System (2025):** Python-based multi-objective optimization engine allocating 6,000+ students into 120 groups.
-- **Automatic Malware Analysis using Sandboxing Technology (2022):** CAPEv2 extensions for memory dump analysis, MISP/WHOIS enrichment, and 30+ bug fixes.
-
-## 🏅 Awards & Achievements
-- NTU-USP Scholarship
-- CSIT Gold Medalist
-- CSIT Diploma Scholar (2020–2023)
-- Director’s List (all 6 semesters)
-- 3rd Place, NYP Infosec Club CTF 2022
-
-## 🛠️ Skills
-- **Languages:** English, Mandarin
-- **Technical:** HTML, CSS, JavaScript, Python, Java, SQL/MySQL, Windows, Linux, Jupyter Notebook, Git, Docker, Tableau, NumPy, Django
-- **Interests:** Cycling, badminton, photography
 
 ---
 
