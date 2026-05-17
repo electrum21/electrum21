@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm electrum21 👋
 
-<!--
-**electrum21/electrum21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/electrum21?tab=followers"><img src="https://img.shields.io/github/followers/electrum21?label=Followers&style=for-the-badge" alt="followers"/></a>
+  <a href="https://github.com/electrum21?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge" alt="repos"/></a>
+  <img src="https://komarev.com/ghpvc/?username=electrum21&style=for-the-badge" alt="profile views"/>
+</p>
 
-Here are some ideas to get you started:
+## 🚀 What I build
+I’m a Computer Science undergraduate (NTU) with a strong cybersecurity and software engineering foundation. My GitHub work spans:
+- **Cybersecurity & malware analysis** (e.g., MALLEVEL, phishing detection systems)
+- **Real-world web products** (e.g., ShiokBus, NTU tools)
+- **Algorithms and optimization systems** (allocation engines, DSA-focused projects)
+- **Cloud/infrastructure practice** (Terraform + serverless workflows)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Live GitHub Snapshot
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=electrum21&show_icons=true&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=electrum21&layout=compact&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=electrum21&hide_border=true" alt="activity graph"/>
+</p>
+
+## 🧩 Featured Work Across My Repositories
+| Project | Focus Area | Stack / Keywords |
+|---|---|---|
+| [ShiokBus](https://github.com/electrum21/shiokbus) | Real-time transit + route intelligence | JavaScript, Cloudflare Workers, LTA DataMall, OneMap, OSRM |
+| [MALLEVEL](https://github.com/electrum21/MALLEVEL) | Anti-malware solution (agent-server + ML) | YARA, XGBoost, Splunk, MongoDB |
+| [tinyfish-phishguard](https://github.com/electrum21/tinyfish-phishguard) | Phishing analysis and enrichment | JavaScript, WHOIS, VirusTotal, sandboxed analysis |
+| [ntu-coursefinder-plus](https://github.com/electrum21/ntu-coursefinder-plus) | Student exchange planning analytics | HTML/CSS/JS, data aggregation & visualization |
+| [track](https://github.com/electrum21/track) | Deadline tracking assistant | JavaScript, productivity workflows |
+| [terraform-practice](https://github.com/electrum21/terraform-practice) | Infrastructure-as-Code experiments | Terraform, AWS provisioning |
+
+## 🎓 Education
+- **Nanyang Technological University (NTU), Singapore** *(Aug 2025 – May 2029)*  
+  Bachelor of Computing in Computer Science (Honours)  
+
+- **Nanyang Polytechnic (NYP), Singapore** *(Apr 2020 – Mar 2023)*  
+  Diploma in Cybersecurity & Digital Forensics (with Merit)  
+
+---
+
+> Thanks for visiting! Explore my repositories to see ongoing experiments in cybersecurity, software engineering, and practical AI-enabled systems.
