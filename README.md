@@ -1,4 +1,4 @@
-# Hi, I'm electrum21 👋
+# Hi, I'm Javier 👋
 
 <p align="center">
   <a href="https://github.com/electrum21?tab=followers"><img src="https://img.shields.io/github/followers/electrum21?label=Followers&style=for-the-badge" alt="followers"/></a>
@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 What I build
-I’m a Computer Science undergraduate (NTU) with a strong cybersecurity and software engineering foundation. My GitHub work spans:
+I’m a Computer Science undergraduate (NTU) with a foundation in cybersecurity and software engineering. My GitHub work spans:
 - **Cybersecurity & malware analysis** (e.g., MALLEVEL, phishing detection systems)
 - **Real-world web products** (e.g., ShiokBus, NTU tools)
 - **Algorithms and optimization systems** (allocation engines, DSA-focused projects)
