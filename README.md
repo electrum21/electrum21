@@ -20,7 +20,7 @@ I’m a Computer Science undergraduate (NTU) with a foundation in cybersecurity 
 | [MALLEVEL](https://github.com/electrum21/MALLEVEL) | Anti-malware solution (agent-server + ML) | YARA, XGBoost, Splunk, MongoDB |
 | [tinyfish-phishguard](https://github.com/electrum21/tinyfish-phishguard) | Phishing analysis and enrichment | JavaScript, WHOIS, VirusTotal, sandboxed analysis |
 | [ntu-coursefinder-plus](https://github.com/electrum21/ntu-coursefinder-plus) | Student exchange planning analytics | HTML/CSS/JS, data aggregation & visualization |
-| [track](https://github.com/electrum21/track) | Deadline tracking assistant | JavaScript, productivity workflows |
+| [track](https://github.com/electrum21/track) | Assignment deadline tracking + Telegram bot | JavaScript, productivity workflows |
 | [terraform-practice](https://github.com/electrum21/terraform-practice) | Infrastructure-as-Code experiments | Terraform, AWS provisioning |
 
 ## 🎓 Education
